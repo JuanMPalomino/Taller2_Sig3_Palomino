@@ -1,5 +1,6 @@
 # Taller 2 del curso de Diseño de Proyectos en SIG
-Taller 2 del curso de SIG3. Autor: Juan Manuel Palomino
+
+Autor: Juan Manuel Palomino (Código: 2028475).
 
 El presente repositorio contiene un Geovisor sobre información hídrica y de protección ambiental correspondiente al corregimiento de La Buitrera, ubicado al Suroeste de Santiago de Cali.
 
